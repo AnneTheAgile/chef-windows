@@ -1,3 +1,23 @@
+==Anne's 
+1.[] MINE new one; X.Microsoft Azure ;; https://portal.azure.com/
+
+
+1.[] docker user new portal and ubuntu vm ; X.Introducing Docker in Microsoft Azure Marketplace | Microsoft Azure Blog ;; http://azure.microsoft.com/blog/2015/01/08/introducing-docker-in-microsoft-azure-marketplace/
+
+1.[] Migrate physical to virtual with an extra server/service [like guardrail] that checks out all your things; X.Migrate Linux VMs to Azure with Migration Accelerator | Microsoft Azure Blog ;; http://azure.microsoft.com/blog/2015/01/13/migrate-linux-vms-to-azure-with-migration-accelerator/
+
+13.[] BUG docs reference out of scope ; it claimed i'd be in posh azure cmdlets and instead we get vbs! ; X.Script List Specific Events from an Event Log ;; https://gallery.technet.microsoft.com/scriptcenter/d2abc225-4b25-4bb7-8646-c6d2c448db99
+12.[] ; X.Runbook Gallery ;; https://msdn.microsoft.com/en-us/library/azure/dn781422.aspx
+11.[] refs 12 which refs 13; X.Get Started with Azure Automation ;; http://azure.microsoft.com/en-us/documentation/articles/automation-create-runbook-from-samples/#resources
+10.[] refs 11; X.Automation Documentation | Azure ;; http://azure.microsoft.com/en-us/documentation/services/automation/
+
+
+1.[] Like cronjobs ; start, stop , suspend ; X.Azure Automation Cmdlets ;; https://msdn.microsoft.com/library/dn690262.aspx
+
+1.[] ; X.Organize your Azure resources with tags ;; http://azure.microsoft.com/en-us/updates/organize-your-azure-resources-with-tags/
+
+
+
 []try;
 
 https://github.com/opscode-cookbooks/windows
@@ -12,6 +32,70 @@ windows_batch 'echo some env vars' do
 end
 ````
 []fud; asked idk how chg platform as suggested; 1.[] ; X.Windows 2012 Support · Issue #109 · opscode-cookbooks/windows ;; https://github.com/opscode-cookbooks/windows/issues/109
+
+==CHEF think only client, only foss, then get msi and it comes with both zero and client
+
+1.[] ignore? ; X.chef-zero Cookbook - Chef Supermarket ;; http://api.berkshelf.com/cookbooks/chef-zero#knife
+1.[] TODO howto , linux based but great idea of hi world; X.local mode | Chef is Easy ;; http://chefiseasy.com/tag/local-mode/
+1.[] ; X.Using cookbook version in chef local mode - Stack Overflow ;; http://stackoverflow.com/questions/25315151/using-cookbook-version-in-chef-local-mode
+1.[] ; X.chef local mode - Bing ;; http://www.bing.com/search?q=chef+local+mode&qs=AS&sk=AS2&pq=chef+loca&sc=4-9&sp=3&cvid=fadd5516519b408db78ce708d005e03c&FORM=QBRE
+1.[] details; X.Install Open Source Chef! — Open Source Chef ;; http://docs.chef.io/open_source/install.html
+1.[] after clicked foss win8 got an msi; X.Chef Client | Chef Downloads | Chef ;; https://www.chef.io/download-chef-client/
+1.[] ; X.From Solo to Zero: Migrating to Chef Client Local Mode | Chef Blog ;; https://www.chef.io/blog/2014/06/24/from-solo-to-zero-migrating-to-chef-client-local-mode/
+
+1.[] ;dec 17 2014 ; ; ;  X.Chef-client local on windows give exception when trying to run cookbook: Invalid handle · Issue #2671 · chef/chef ;; https://github.com/chef/chef/issues/2671
+
+1.[] ; X.A First Experiment with Chef ;; http://blogs.adobe.com/security/2014/06/a-first-experiment-with-chef.html
+
+URLS LIST
+1.[] ; X.About RubyInstaller ;; http://rubyinstaller.org/about
+
+2.[] ; X.chef windows - Bing ;; http://www.bing.com/search?form=MOZPSB&pc=MOZO&q=chef+windows
+
+3.[] ; X.Chef for Windows | Chef ;; https://www.chef.io/solutions/windows/
+
+4.[] ; X.PowerShell Desired State Configuration and DevOps in Microsoft Azure | TechEd North America 2014 | Channel 9 ;; http://channel9.msdn.com/events/TechEd/NorthAmerica/2014/DCIM-B324
+
+5.[] ; X.Cupfighter.net – a blog by Schuberg Philis colleagues ;; https://www.cupfighter.net/2014/12/practical-exploration-of-chef-and-microsoft-powershell-desired-state-configuration-dsc
+
+6.[] ; X.chef powerShell Desired State Configuration - Bing ;; http://www.bing.com/search?form=MOZPSB&pc=MOZO&q=chef+powerShell+Desired+State+Configuration
+
+7.[] ; X.Ops All The Things! | A Podcast about all things Operations, DevOps and Systems Administration ;; http://www.opsallthethings.com/
+
+8.[] ; X.Sysinternals chef - Bing ;; http://www.bing.com/search?form=MOZPSB&pc=MOZO&q=Sysinternals+chef
+
+9.[] ; X.Chef Cookbooks for Microsoft Windows ;; https://github.com/chef-windows
+
+10.[] ; X.A First Experiment with Chef ;; http://blogs.adobe.com/security/2014/06/a-first-experiment-with-chef.html
+
+11.[] na no recording link; would be on chef site; X.Webinar: Chef + Azure = Awesome! | Microsoft Azure Blog ;; http://azure.microsoft.com/blog/2014/05/29/chef-azure-webinar-awesome/
+
+12.[] ; X.Chef-client local on windows give exception when trying to run cookbook: Invalid handle · Issue #2671 · chef/chef ;; https://github.com/chef/chef/issues/2671
+
+13.[] ; X.From Solo to Zero: Migrating to Chef Client Local Mode | Chef Blog ;; https://www.chef.io/blog/2014/06/24/from-solo-to-zero-migrating-to-chef-client-local-mode/
+
+14.[] ; X.Chef Client | Chef Downloads | Chef ;; https://www.chef.io/download-chef-client/
+
+15.[] ; X.Install Open Source Chef! — Open Source Chef ;; http://docs.chef.io/open_source/install.html
+
+16.[] ; X.chef local mode - Bing ;; http://www.bing.com/search?q=chef+local+mode&qs=AS&sk=AS2&pq=chef+loca&sc=4-9&sp=3&cvid=fadd5516519b408db78ce708d005e03c&FORM=QBRE
+
+17.[] ; X.local mode | Chef is Easy ;; http://chefiseasy.com/tag/local-mode/
+
+18.[] ; X.chef-zero Cookbook - Chef Supermarket ;; http://api.berkshelf.com/cookbooks/chef-zero#knife
+
+19.[] ; X.Sign in to Microsoft Azure ;; https://login.microsoftonline.com/login.srf?wa=wsignin1.0&wtrealm=https%3a%2f%2flogin.windows.net&wreply=https%3a%2f%2flogin.windows.net%2fcommon%2fwsfederation&wctx=......t=azuPortal
+
+20.[] ; X.Editing chef-windows/README.md at anne-doc · AnneTheAgile/chef-windows ;; https://github.com/AnneTheAgile/chef-windows/edit/anne-doc/README.md
+
+
+
+
+
+
+
+
+
 
 
 
