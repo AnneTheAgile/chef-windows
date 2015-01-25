@@ -1,3 +1,21 @@
+[]try;
+
+https://github.com/opscode-cookbooks/windows
+````
+windows_batch 'echo some env vars' do
+  code <<-EOH
+  echo %TEMP%
+  echo %SYSTEMDRIVE%
+  echo %PATH%
+  echo %WINDIR%
+  EOH
+end
+````
+[]fud; asked idk how chg platform as suggested; 1.[] ; X.Windows 2012 Support · Issue #109 · opscode-cookbooks/windows ;; https://github.com/opscode-cookbooks/windows/issues/109
+
+
+
+
 Windows Cookbook
 ================
 Provides a set of Windows-specific primitives (Chef resources) meant to aid in the creation of cookbooks/recipes targeting the Windows platform.
