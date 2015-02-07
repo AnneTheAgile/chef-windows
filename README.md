@@ -35,17 +35,18 @@ end
 
 ==CHEF think only client, only foss, then get msi and it comes with both zero and client
 
-1.[] ignore? ; X.chef-zero Cookbook - Chef Supermarket ;; http://api.berkshelf.com/cookbooks/chef-zero#knife
-1.[] TODO howto , linux based but great idea of hi world; X.local mode | Chef is Easy ;; http://chefiseasy.com/tag/local-mode/
+1.[] ignore? ; Recent version of Chef include Chef Zero, but this cookbook provides more flexibility and control over the version and allows you to start Chef Zero as a system service. ; X.chef-zero Cookbook - Chef Supermarket ;; http://api.berkshelf.com/cookbooks/chef-zero#knife
+
+1.[] TODO howto; Hi Template , shows how to cd;  , linux based but great idea of hi world; X.local mode | Chef is Easy ;; http://chefiseasy.com/tag/local-mode/
+
+
 1.[] ; X.Using cookbook version in chef local mode - Stack Overflow ;; http://stackoverflow.com/questions/25315151/using-cookbook-version-in-chef-local-mode
-1.[] ; X.chef local mode - Bing ;; http://www.bing.com/search?q=chef+local+mode&qs=AS&sk=AS2&pq=chef+loca&sc=4-9&sp=3&cvid=fadd5516519b408db78ce708d005e03c&FORM=QBRE
+1.[] ggl; X.chef local mode - Bing ;; http://www.bing.com/search?q=chef+local+mode&qs=AS&sk=AS2&pq=chef+loca&sc=4-9&sp=3&cvid=fadd5516519b408db78ce708d005e03c&FORM=QBRE
 1.[] details; X.Install Open Source Chef! — Open Source Chef ;; http://docs.chef.io/open_source/install.html
 1.[] after clicked foss win8 got an msi; X.Chef Client | Chef Downloads | Chef ;; https://www.chef.io/download-chef-client/
 1.[] ; X.From Solo to Zero: Migrating to Chef Client Local Mode | Chef Blog ;; https://www.chef.io/blog/2014/06/24/from-solo-to-zero-migrating-to-chef-client-local-mode/
 
 1.[] ;dec 17 2014 ; ; ;  X.Chef-client local on windows give exception when trying to run cookbook: Invalid handle · Issue #2671 · chef/chef ;; https://github.com/chef/chef/issues/2671
-
-1.[] ; X.A First Experiment with Chef ;; http://blogs.adobe.com/security/2014/06/a-first-experiment-with-chef.html
 
 URLS LIST
 1.[] ; X.About RubyInstaller ;; http://rubyinstaller.org/about
